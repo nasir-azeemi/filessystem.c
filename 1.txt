@@ -1,0 +1,12 @@
+CR /file 69
+CR /file 79
+CD /home
+CD /home
+CR /home/file1 1280
+CR /home/file2 128
+CR /home/file1 129
+DL /home/file2
+LL
+DL /home/file2
+DL /user/file1
+LL

@@ -1,0 +1,23 @@
+CD /home/user
+CD /home
+CD /home
+CD /home/user
+CD /home/user/bin
+CD /home/user/bin
+CD /home/user/bin/1
+CD /home/user/bin/2
+CD /home/user/bin/3
+CD /home/user/bin/4
+CD /home/user/bin/5
+CD /home/user/bin/6
+CD /home/user/bin/6
+CD /home/user/bin/7
+CD /home/user/bin/8
+CD /home/user/bin/12
+CD /home/user/bin/13
+CD /home/user/bin/114
+CD /home/user/bin/112
+CD /home/user/bin/10
+CD /home/user/bin/11
+CD /home/user/bin/9
+LL
